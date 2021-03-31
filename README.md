@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kieu Dac
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Front-End Developer
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking for job intership
 - 📫 How to reach me ...
