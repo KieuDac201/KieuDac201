@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KieuDac201
-- 👀 I’m interested in 
+- 👋 Hi, I’m Kieu Dac
+- 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for job intership
 - 📫 How to reach me ...
 
 <!---
